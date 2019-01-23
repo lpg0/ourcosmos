@@ -16,8 +16,21 @@ html {
  * Remove default margin.
  */
 
-body {
-  margin: 0;
+body, html {
+  height: 100%;
+}
+
+.bg { 
+  /* The image used */
+  background-image: url("https://github.com/lpg0/ourcosmos/blob/master/docs/images/AstronomyDark.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* HTML5 display definitions
