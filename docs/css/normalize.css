@@ -16,21 +16,10 @@ html {
  * Remove default margin.
  */
 
-body, html {
-  height: 100%;
-}
-
-.bg { 
-  /* The image used */
-  background-image: url("images/AstronomyDark.jpg");
-
-  /* Full height */
-  height: 100%; 
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+body {
+  margin: 0;
+  opacity: 1;
+  transition: 1s opacity;
 }
 
 /* HTML5 display definitions
