@@ -20,7 +20,7 @@ body {
   margin: 0;
   opacity: 1;
   transition: 1s opacity;
-  background: url("../images/AstronomyDark.jpg") no-repeat center center fixed; 
+  background: url("https://github.com/lpg0/ourcosmos/blob/master/docs/images/AstronomyDark.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
