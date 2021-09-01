@@ -1,2 +1,2 @@
 # ourcosmos
-Bio-terraforming Mars research project
+Bio-terraforming Mars space research project based in Charlottesville, VA
